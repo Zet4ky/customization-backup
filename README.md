@@ -1,5 +1,5 @@
-# dotfiles-backup
-A backup of my dotfiles.
+# customization-backup
+This is a backup.
 
 ## Wallpaper: 
 - I’m using [Purple Fluorite](https://4kwallpapers.com/abstract/sapphire-fluorite-14502.html) by [Andrew Zuckerman](https://andrewzuckerman.com.) as my desktop background.
