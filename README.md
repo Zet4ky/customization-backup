@@ -1,2 +1,2 @@
 # dotfiles-backup
-A backup of my dotfiles, They suck.
+A backup of my dotfiles.
