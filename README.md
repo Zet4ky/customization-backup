@@ -8,4 +8,5 @@ This is a backup.
 - [Catppuccin](https://marketplace.visualstudio.com/items?itemName=Catppuccin.catppuccin-vsc) and [Tokyo Night](https://marketplace.visualstudio.com/items?itemName=enkia.tokyo-night) as themes.
 - [Better Comments](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments) for clearer comment highlighting.
 - [Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense) for filename autocompletion.
-- [AsciiDoc](https://marketplace.visualstudio.com/items?itemName=asciidoctor.asciidoctor-vscode) for note‑taking-
+- [AsciiDoc](https://marketplace.visualstudio.com/items?itemName=asciidoctor.asciidoctor-vscode) for note‑taking.
+- [LaTeX Workshop](https://marketplace.visualstudio.com/items?itemName=James-Yu.latex-workshop) for hardcore note-taking.
