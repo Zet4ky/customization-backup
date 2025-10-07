@@ -10,3 +10,4 @@ This is a backup.
 - [Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense) for filename autocompletion.
 - [AsciiDoc](https://marketplace.visualstudio.com/items?itemName=asciidoctor.asciidoctor-vscode) for note‑taking.
 - [LaTeX Workshop](https://marketplace.visualstudio.com/items?itemName=James-Yu.latex-workshop) for hardcore note-taking.
+- [XML by Red Hat](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-xml) for XML language support.
