@@ -2,7 +2,7 @@
 This is a backup.
 
 ## Wallpaper: 
-- I’m using [Purple Fluorite](https://4kwallpapers.com/abstract/sapphire-fluorite-14502.html) by [Andrew Zuckerman](https://andrewzuckerman.com.) as my desktop background.
+- I use [Purple Fluorite](https://4kwallpapers.com/abstract/sapphire-fluorite-14502.html) by [Andrew Zuckerman](https://andrewzuckerman.com) and [Arc](https://fmhy.net/other/wallpapers) from FMHY as my desktop(s) background(s).
 
 ## Visual Studio Code:
 - [Catppuccin](https://marketplace.visualstudio.com/items?itemName=Catppuccin.catppuccin-vsc) and [Tokyo Night](https://marketplace.visualstudio.com/items?itemName=enkia.tokyo-night) as themes.
@@ -11,3 +11,8 @@ This is a backup.
 - [AsciiDoc](https://marketplace.visualstudio.com/items?itemName=asciidoctor.asciidoctor-vscode) for note‑taking.
 - [LaTeX Workshop](https://marketplace.visualstudio.com/items?itemName=James-Yu.latex-workshop) for hardcore note-taking.
 - [XML by Red Hat](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-xml) for XML language support.
+
+## Browsers:
+- Mullvad Browser as main browser.
+- Firefox Browser with: `privacy.userContext.enabled` and `privacy.userContext.ui.enabled` set to `true` as a fallback.
+- Microsoft Edge with some of [TommyTran's Policies](https://github.com/TommyTran732/Microsoft-Edge-Policies) as another fallback.
