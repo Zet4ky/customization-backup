@@ -13,6 +13,5 @@ This is a backup.
 - [XML by Red Hat](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-xml) for XML language support.
 
 ## Browsers:
-- Mullvad Browser as main browser.
 - Firefox Browser with: `privacy.userContext.enabled` and `privacy.userContext.ui.enabled` set to `true` as a fallback.
 - Microsoft Edge with some of [TommyTran's Policies](https://github.com/TommyTran732/Microsoft-Edge-Policies) as another fallback.
